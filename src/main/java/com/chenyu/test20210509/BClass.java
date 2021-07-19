@@ -4,5 +4,6 @@ public class BClass {
 
     public void methodTwo(){
         System.out.println("methodTwo 456");
+        System.out.println("456456");
     }
 }
