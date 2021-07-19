@@ -6,4 +6,8 @@ public class AClass {
         System.out.println("methodOne 123");
         System.out.println("ni hao");
     }
+
+    public void methodThree() {
+        System.out.println("methodThree");
+    }
 }
